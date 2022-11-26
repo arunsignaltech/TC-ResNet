@@ -1,6 +1,6 @@
 #!/bin/sh
 set -eux
-
+#setup Initial
 # setup your train and data paths
 export ROOT_TRAIN_DIR=
 export DATA_SPEECH_COMMANDS_V1_DIR=/data/google_audio/data_speech_commands_v0.01_newsplit
